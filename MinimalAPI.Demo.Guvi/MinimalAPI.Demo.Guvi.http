@@ -1,0 +1,6 @@
+@MinimalAPI.Demo.Guvi_HostAddress = http://localhost:5251
+
+GET {{MinimalAPI.Demo.Guvi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,9 @@
+@ControllerAPI.Demo.Guvi_HostAddress = http://localhost:5145
+
+GET {{ControllerAPI.Demo.Guvi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{ControllerAPI.Demo.Guvi_HostAddress}}/api/Products/GetProduct(2)
+Accept: application/json
